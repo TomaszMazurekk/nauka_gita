@@ -8,3 +8,6 @@ Opis: To jest repozytorium które będzie zawierało komendy i linki przydatne p
 2. Wprowadzenie do Githuba -[link](https://github.com/skills/introduction-to-github)
 
 3. Jak pracować z Markdown - [link](https://github.com/skills/communicate-using-markdown)
+
+## Ćwiczenia
+1. Learn Git Branching - [link](https://learngitbranching.js.org)
