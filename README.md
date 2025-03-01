@@ -11,6 +11,8 @@ Opis: To jest repozytorium które będzie zawierało komendy i linki przydatne p
 
 ## Ćwiczenia
 1. Learn Git Branching - [link](https://learngitbranching.js.org)
+2. Github conflicts - [link](https://github.com/githubtraining/conflict-practice)
+3. Git warsztaty - [link](https://www.gitwarsztaty.pl/cwiczenia)
 
 ### Pytania rekrutacyjne
 1. Git pytania rekrutacyjne 2024 -[link](https://mockit.pl/blog/pytania-rekrutacyjne-git)
